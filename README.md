@@ -1,6 +1,6 @@
-# Bug Hunter - Claude Code Skill
+# Bug Hunter: Claude Code Skill
 
-A reusable Claude Code skill for auditing vibe-coded and conventional software projects for functional bugs, UI glitches, security weaknesses, data-integrity risks, and regressions - then fixing verified, in-scope issues in priority order.
+A reusable Claude Code skill for auditing vibe-coded and conventional software projects for functional bugs, UI glitches, security weaknesses, data-integrity risks, and regressions, then fixing verified, in-scope issues in priority order.
 
 ## Install
 
@@ -63,11 +63,11 @@ findings and recommended fixes.
 
 ## Priority levels
 
-- **P0 Critical** - catastrophic impact or severe exploitability
-- **P1 High** - substantial security, data, payment, account, or core-flow impact
-- **P2 Medium** - meaningful functional or reliability defects
-- **P3 Low** - minor issues, edge cases, accessibility, or cosmetic defects
-- **P4 Informational** - optional improvements and maintainability suggestions
+- **P0 Critical:** catastrophic impact or severe exploitability
+- **P1 High:** substantial security, data, payment, account, or core-flow impact
+- **P2 Medium:** meaningful functional or reliability defects
+- **P3 Low:** minor issues, edge cases, accessibility, or cosmetic defects
+- **P4 Informational:** optional improvements and maintainability suggestions
 
 ## Safety
 
