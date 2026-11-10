@@ -77,6 +77,8 @@ The skill is designed to preserve user changes and avoid destructive operations.
 
 ```text
 .claude/skills/bug-hunter/SKILL.md   # Skill instructions
+.github/workflows/ci.yml             # GitHub Actions CI workflow
+scripts/validate.py                  # Repository & skill validation script
 README.md                            # Installation and usage
 LICENSE                              # MIT license
 ```
